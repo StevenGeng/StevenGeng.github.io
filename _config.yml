@@ -3,7 +3,7 @@ title: 耿浩原
 SEOTitle: 耿浩原's Site
 header-img: img/post-bg-desk.jpg
 email: 1138313826@qq.com
-description: "Welcome!欢迎来到我的主页！"
+description: "Welcome!"
 keyword: "耿浩原"
 url: "https://StevenGeng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -50,10 +50,6 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-# Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
