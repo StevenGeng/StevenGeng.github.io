@@ -1,7 +1,7 @@
 # Site settings
 title: 耿浩原
 SEOTitle: 耿浩原's Site
-header-img: img/post-bg-desk.jpg
+header-img: img/cello1.jpg
 email: 1138313826@qq.com
 keyword: "耿浩原"
 url: "https://StevenGeng.github.io"          # your host, for absolute URL
@@ -16,7 +16,7 @@ sidebar-avatar: /img/ghy.jpg      # use absolute URL, seeing it's used in both `
 
 
 # SNS settings
-RSS: false
+RSS: true
 # zhihu_username:     Steven.G
 # github_username:    StevenGeng
 
